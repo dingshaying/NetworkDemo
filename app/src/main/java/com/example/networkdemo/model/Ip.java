@@ -1,7 +1,6 @@
-package com.example.networkdemo;
+package com.example.networkdemo.model;
 
 import java.io.Serializable;
-import java.util.Date;
 
 public class Ip implements Serializable {
     private int code;

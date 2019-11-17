@@ -1,4 +1,4 @@
-package com.example.networkdemo;
+package com.example.networkdemo.model;
 
 import java.io.Serializable;
 

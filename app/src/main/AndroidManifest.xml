@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".GainDataActivity"></activity>
+        <activity android:name=".ThreeDataActivity"></activity>
         <activity android:name=".OkHttpActivity" />
         <activity android:name=".URLConnectionActivity" />
         <activity android:name=".MainActivity">

@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(intent);
                 break;
             case R.id.btn_gain:
-                intent = new Intent(MainActivity.this,GainDataActivity.class);
+                intent = new Intent(MainActivity.this, ThreeDataActivity.class);
                 startActivity(intent);
                 break;
         }
